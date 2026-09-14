@@ -61,9 +61,9 @@ The Power BI dashboard provides an interactive overview of the company's workfor
 - Attendance Status
 - Salary Level Distribution
 
-## Dashboard Preview
+## 🎥 Project Demo
 
-![TechNova Employee Analytics Dashboard](Screenshot%202026-09-14%20042345.png)
+[▶️ Watch the TechNova Employee Analytics Demo](./TechNova_Employee_Analytics_LinkedIn_Video.mp4)
 
 ## Key Insights
 
@@ -76,9 +76,6 @@ The Power BI dashboard provides an interactive overview of the company's workfor
 - Salary and performance show very weak linear correlation in the current sample.
 
 ## Project Structure
-## Power BI Dashboard
-
-![TechNova Employee Analytics Dashboard](./Screenshot%202026-09-14%20042345.png)
 
 ```text
 TechNova_Employee_Analytics/
